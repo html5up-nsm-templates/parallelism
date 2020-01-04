@@ -12,7 +12,7 @@
 
 		<!-- Wrapper -->
 			<div id="wrapper">
-				@inputcontent
+				@content()
 
 				@input(template/footer.content)
 			</div>
